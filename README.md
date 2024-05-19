@@ -1,8 +1,8 @@
-# Olá, Eu sou o <João Vitor>! 👋
+# Olá, Eu sou o João Vitor! 👋
 
 Tenho 18 anos, curto bastante programação, atualmente não possuo nenhuma experiência profissional.
 
-![<agsjohn>'s Stats](https://github-readme-stats.vercel.app/api?username=<agsjohn>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![agsjohn's Stats](https://github-readme-stats.vercel.app/api?username=agsjohn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 Sobre mim
 
