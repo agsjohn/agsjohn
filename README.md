@@ -2,7 +2,7 @@
 
 Tenho 18 anos, curto bastante programação, atualmente não possuo nenhuma experiência profissional.
 
-![<agsjohn>'s Stats](https://github-readme-stats.vercel.app/api?username=<agsjohn>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<agsjohn>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 Sobre mim
 
@@ -11,7 +11,7 @@ Tenho 18 anos, curto bastante programação, atualmente não possuo nenhuma expe
 - 🌍 Entendo inglês básico.
 - 🔧 Manutenção e suporte de computadores. 
 
-## Habilidades
+## Habilidades Tech
 [![My Skills](https://skillicons.dev/icons?i=c,mysql)](https://skillicons.dev)
 
 ## 🌱 Estudando no momento
@@ -29,10 +29,6 @@ Tenho 18 anos, curto bastante programação, atualmente não possuo nenhuma expe
 - [Twitter](https://twitter.com/AGsecretJohn)
 - Email para contato: joaovitormds03@gmail.com
 - [Instagram](https://www.instagram.com/agsjohn/)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
 
 <!--
 
