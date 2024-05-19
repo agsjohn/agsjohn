@@ -2,16 +2,17 @@
 
 Tenho 18 anos, curto bastante programação, atualmente não possuo nenhuma experiência profissional.
 
-![<agsjohn>'s Stats](https://github-readme-stats.vercel.app/api?agsjohn=<agsjohn>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<agsjohn>'s Stats](https://github-readme-stats.vercel.app/api?username=<agsjohn>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 Sobre mim
 
 - 🔭 Estou cursando Bacharelado em Ciência da Computação (Ead) Uniritter.
-- 📝 3º semestre em Curso Técnico em Informática na Escola Técnica Mesquita.
+- 📝 Estou no 3º semestre em Curso Técnico em Informática na Escola Técnica Mesquita.
+- 🌍 Entendo inglês básico.
+- 🔧 Manutenção e suporte de computadores. 
 
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## Habilidades
+[![My Skills](https://skillicons.dev/icons?i=c,mysql)](https://skillicons.dev)
 
 ## 🌱 Estudando no momento
 
@@ -25,9 +26,9 @@ Tenho 18 anos, curto bastante programação, atualmente não possuo nenhuma expe
 
 ## 📬 Contato
 
-- Twitter: [Twitter](https://twitter.com/AGsecretJohn)
+- [Twitter](https://twitter.com/AGsecretJohn)
 - Email para contato: joaovitormds03@gmail.com
-- Instagram: [Instagram](https://www.instagram.com/agsjohn/)
+- [Instagram](https://www.instagram.com/agsjohn/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
