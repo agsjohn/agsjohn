@@ -12,12 +12,11 @@ Tenho 18 anos, curto bastante programação, atualmente não possuo nenhuma expe
 - 🔧 Manutenção e suporte de computadores. 
 
 ## Habilidades Tech
-[![My Skills](https://skillicons.dev/icons?i=c,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,mysql,html,css)](https://skillicons.dev)
 
 ## 🌱 Estudando no momento
 
-  - Aprendendo programação em Java.
-  - CSS e Html.
+  - Aprimorando Java.
 
  ## 🏆 Formações Completas
 
