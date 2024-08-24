@@ -17,6 +17,8 @@ Tenho 18 anos, curto bastante programação, atualmente não possuo nenhuma expe
 ## 🌱 Estudando no momento
 
   - Aprimorando Java.
+  - Aprimorando habilidades em Redes de computadores.
+  - Aprendendo Flutter.
 
  ## 🏆 Formações Completas
 
@@ -27,6 +29,7 @@ Tenho 18 anos, curto bastante programação, atualmente não possuo nenhuma expe
 
 - Email para contato: joaovitormds03@gmail.com
 - [Instagram](https://www.instagram.com/agsjohn/)
+- [Linkedin](https://www.linkedin.com/in/joaovitormds/)
 
 <!--
 
