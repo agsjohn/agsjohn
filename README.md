@@ -6,9 +6,9 @@ Tenho 18 anos, curto bastante programação, atualmente não possuo nenhuma expe
 
 ## 🚀 Sobre mim
 
-- 🔭 Estou cursando Bacharelado em Ciência da Computação (Ead) Uniritter.
-- 📝 Estou no 3º semestre em Curso Técnico em Informática na Escola Técnica Mesquita.
-- 🌍 Entendo inglês básico.
+- 🔭 Estou no 2º semestre de Bacharelado em Ciência da Computação (Ead) Uniritter.
+- 📝 Estou no 4º semestre de Curso Técnico em Informática na Escola Técnica Mesquita.
+- 🌍 Inglês intermediário.
 - 🔧 Manutenção e suporte de computadores. 
 
 ## Habilidades Tech
@@ -26,7 +26,6 @@ Tenho 18 anos, curto bastante programação, atualmente não possuo nenhuma expe
 
 ## 📬 Contato
 
-- [Twitter](https://twitter.com/AGsecretJohn)
 - Email para contato: joaovitormds03@gmail.com
 - [Instagram](https://www.instagram.com/agsjohn/)
 
