@@ -18,7 +18,7 @@ Tenho 18 anos, curto bastante programação, estou trabalhando atualmente com su
 
   - Aprimorando Java.
   - Aprimorando habilidades em Redes de computadores.
-  - Aprendendo Flutter.
+  - Aprendendo Kotlin e Flutter.
 
  ## 🏆 Formações Completas
 
