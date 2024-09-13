@@ -12,8 +12,9 @@ Tenho 18 anos, curto bastante programação, estou trabalhando atualmente com su
 - 🔧 Manutenção e suporte de computadores. 
 
 ## Habilidades Tech
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agsjohn&layout=compact)
+
 [![My Skills](https://skillicons.dev/icons?i=java,c,mysql,html,css,javascript)](https://skillicons.dev)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## 🌱 Estudando no momento
 
