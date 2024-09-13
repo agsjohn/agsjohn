@@ -13,6 +13,7 @@ Tenho 18 anos, curto bastante programação, estou trabalhando atualmente com su
 
 ## Habilidades Tech
 [![My Skills](https://skillicons.dev/icons?i=java,c,mysql,html,css,javascript)](https://skillicons.dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## 🌱 Estudando no momento
 
