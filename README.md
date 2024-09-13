@@ -2,7 +2,7 @@
 
 Tenho 18 anos, curto bastante programação, estou trabalhando atualmente com suporte de TI na empresa HW Center, mas busco posteriormente me tornar um desenvolvedor.
 
-![agsjohn's Stats](https://github-readme-stats.vercel.app/api?username=agsjohn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![agsjohn's Stats](https://github-readme-stats-agsjohns-projects.vercel.app/api?username=agsjohn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 Sobre mim
 
