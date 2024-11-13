@@ -9,15 +9,14 @@ Tenho 18 anos, curto bastante programação, estou trabalhando atualmente com su
 - 🔭 Estou no 2º semestre de Bacharelado em Ciência da Computação (Ead) Uniritter.
 - 📝 Estou no 4º semestre de Curso Técnico em Informática na Escola Técnica Mesquita.
 - 🌍 Inglês intermediário.
-- 🔧 Manutenção e suporte de computadores. 
+- 🔧 Manutenção, redes e suporte de computadores. 
 
 ## Habilidades Tech
 [![My Skills](https://skillicons.dev/icons?i=java,c,mysql,html,css,javascript)](https://skillicons.dev)
 
 ## 🌱 Estudando no momento
 
-  - Aprimorando Java.
-  - Aprimorando habilidades em Redes de computadores.
+  - Aprendendo Java.
   - Aprendendo Kotlin e Flutter.
 
  ## 🏆 Formações Completas
