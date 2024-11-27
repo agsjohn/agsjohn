@@ -12,12 +12,7 @@ Tenho 18 anos, curto bastante programação, estou trabalhando atualmente com su
 - 🔧 Manutenção, redes e suporte de computadores. 
 
 ## Habilidades Tech
-[![My Skills](https://skillicons.dev/icons?i=java,c,mysql,html,css,javascript)](https://skillicons.dev)
-
-## 🌱 Estudando no momento
-
-  - Aprendendo Java.
-  - Aprendendo Kotlin e Flutter.
+[![My Skills](https://skillicons.dev/icons?i=java,c,mysql,html,css,javascript,dart,kotlin)](https://skillicons.dev)
 
  ## 🏆 Formações Completas
 
