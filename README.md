@@ -6,8 +6,7 @@ Tenho 18 anos, curto bastante programação, estou trabalhando atualmente com su
 
 ## 🚀 Sobre mim
 
-- 🔭 Estou no 2º semestre de Bacharelado em Ciência da Computação (Ead) Uniritter.
-- 📝 Estou no 4º semestre de Curso Técnico em Informática na Escola Técnica Mesquita.
+- 🔭 Estou no 3º semestre de Bacharelado em Ciência da Computação (Ead) Uniritter.
 - 🌍 Inglês intermediário.
 - 🔧 Manutenção, redes e suporte de computadores. 
 
@@ -16,6 +15,7 @@ Tenho 18 anos, curto bastante programação, estou trabalhando atualmente com su
 
  ## 🏆 Formações Completas
 
+- 🔧 Curso Técnico em Informática na Escola Técnica Mesquita.
 - 🌟 Ensino médio completo.
 
 
