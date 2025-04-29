@@ -1,4 +1,4 @@
-# Olá, Eu sou o João Vitor! 👋
+# Olá, me chamo João Vitor! 👋
 
 Tenho 19 anos, curto bastante programação, estou na busca de me tornar um desenvolvedor.
 
