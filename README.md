@@ -8,10 +8,9 @@ Tenho 19 anos, curto bastante programação, estou na busca de me tornar um dese
 
 - 🔭 Estou no 3º semestre de Bacharelado em Ciência da Computação (Ead) Uniritter.
 - 🌍 Inglês intermediário.
-- 🔧 Manutenção, redes e suporte de computadores. 
 
 ## Habilidades Tech
-[![My Skills](https://skillicons.dev/icons?i=java,c,mysql,html,css,javascript,dart,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,flutter,mysql,spring,c,html,css,javascript,kotlin)](https://skillicons.dev)
 
  ## 🏆 Formações Completas
 
