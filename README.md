@@ -6,7 +6,7 @@ Tenho 19 anos, curto bastante programação, estou na busca de me tornar um dese
 
 ## 🚀 Sobre mim
 
-- 🔭 Estou no 3º semestre de Bacharelado em Ciência da Computação (Ead) Uniritter.
+- 🔭 Estou no 3º semestre de Bacharelado em Ciência da Computação Uniritter.
 - 🌍 Inglês intermediário.
 
 ## Habilidades Tech
