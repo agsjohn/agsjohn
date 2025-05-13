@@ -10,7 +10,7 @@ Tenho 19 anos, curto bastante programação, estou na busca de me tornar um dese
 - 🌍 Inglês intermediário.
 
 ## Habilidades Tech
-[![My Skills](https://skillicons.dev/icons?i=java,flutter,mysql,spring,c,html,css,javascript,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,flutter,mysql,postgres,spring,c,kotlin,html,css,javascript)](https://skillicons.dev)
 
  ## 🏆 Formações Completas
 
