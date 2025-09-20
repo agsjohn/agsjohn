@@ -1,6 +1,6 @@
 # Olá, me chamo João Vitor! 👋
 
-Tenho 19 anos, sou fascinado por programação e estou em busca de me tornar um desenvolvedor. Sou formado técnico em informática e estou atualmente no 4º semestre de Bacharelado em Ciência da Computação. 
+Tenho 19 anos, sou fascinado por programação e novas tecnologias. Sou formado técnico em informática e estou no 4º semestre de Bacharelado em Ciência da Computação. Atualmente estou trabalhando como estagiário de TI na Vivo Telefônica. 
 
 ![agsjohn's Stats](https://github-readme-stats-agsjohns-projects.vercel.app/api?username=agsjohn&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true)
 
