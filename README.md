@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Backend Developer em Formação | Java, Spring Boot & SQL** *Estudante de Ciência da Computação @ UniRitter | Estagiário de TI @ Vivo*
+  **Backend Developer | Java, Spring Boot & SQL** *Estudante de Ciência da Computação @ UniRitter | Estagiário de TI @ Vivo*
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joaovitormds/)
   [![Portfolio](https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=google-chrome)](https://agsjohn.github.io/)
@@ -16,10 +16,6 @@
 Atualmente atuo na **Vivo (Telefônica Brasil)** criando soluções de automação e análise de dados. Minha paixão, no entanto, é a engenharia de software **Backend**. 
 
 Estou focado em dominar o ecossistema **Java**, construindo aplicações robustas, escaláveis e orientadas a eventos. 
-
-- 🔭 **Atualmente trabalhando em:** Projetos com **Spring Boot 3, Apache Kafka e Docker**.
-- 📚 **Estudando:** Arquitetura de Microsserviços e Cloud Native (Certificação Bradesco).
-- ⚡ **Curiosidade:** Adoro aplicar conceitos de DevOps (CI/CD) até mesmo em projetos pessoais.
 
 ---
 
